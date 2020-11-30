@@ -1,37 +1,20 @@
-# _{Application Name}_
+# My-First-Webpage
+### _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._<br><br>
+[Epicodus](https://www.epicodus.com/) - Introduction to Programming - Week 01 - Lesson 25<br><br>
+Initialization Date: 2020-10-13
 
-#### _{Brief description of application}, {Date of current version}_
+## Project Description
+### _Practice Exercise:_<br>
+This project is an exercise in creating a basic HTML webpage, very basic styling, creating a project fork, and deploying the project to GitHub Pages.
 
-#### By _**{List of contributors}**_
+## Authors and Contributors
+Authored by: Randel Moore, Jeff Chiu, Ben McFarland.
 
-## Description
+## Contact
+RMGit.it@gmail.com
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+## License
 
-## Setup/Installation Requirements
+GPLv3
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
-## Support and contact details
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-## Technologies Used
-
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
-
-### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Randel Moore © 2020.
